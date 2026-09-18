@@ -2,7 +2,7 @@
 
 ## Tugas - Klasifikasi dengan Decision Tree
 
-**Dataset:** https://www.kaggle.com/competitions/sheep-classification-challenge-2025/data
+**Dataset:** https://www.kaggle.com/datasets/itzzomkar/buy-now-pay-later-bnpl-default-risk 
 
 **File notebook:** `DT_NRP.ipynb`
 
