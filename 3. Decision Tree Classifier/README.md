@@ -6,7 +6,7 @@
 
 **File notebook:** `DT_NRP.ipynb`
 
-Pada tugas ini kalian akan membangun model Decision Tree Classifier untuk menyelesaikan sebuah masalah klasifikasi. Fokus utama tugas ini bukan pada pemilihan dataset, melainkan pada pemahaman cara kerja Decision Tree, khususnya:
+Pada tugas ini kalian akan membangun model Decision Tree Classifier untuk menyelesaikan sebuah masalah klasifikasi. Fokus utama tugas ini adalah pemahaman cara kerja Decision Tree, khususnya:
 
 - Perbandingan hasil antara kriteria split Gini Impurity dan Entropy
 - Pengaruh regularisasi (max_depth) terhadap gejala overfitting
