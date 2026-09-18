@@ -2,7 +2,7 @@
 
 ## Tugas - Klasifikasi dengan Decision Tree
 
-**Dataset:** https://www.kaggle.com/datasets/itzzomkar/buy-now-pay-later-bnpl-default-risk 
+**Dataset:** https://www.kaggle.com/datasets/abbas829/bankruptcy
 
 **File notebook:** `DT_NRP.ipynb`
 
